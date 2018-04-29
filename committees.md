@@ -4,11 +4,11 @@ title: Committees
 
 ## Workshop Organizers
 
-Hari Ramasamy, IBM Cloud
+Hari Ramasamy, IBM
 
-Valentina Salapura, IBM Watson Health
+Valentina Salapura, IBM
 
-Long Wang, IBM Watson Health
+Long Wang, IBM
 
 
 ## Program Committee
