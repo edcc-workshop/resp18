@@ -2,22 +2,17 @@
 title: Committees
 ---
 
-## Program Chairs
+## Workshop Organizers
 
-TBD
+Hari Ramasamy, IBM Cloud
+Valentina Salapura, IBM Watson Health
+Long Wang, IBM Watson Health
+
 
 ## Program Committee
 
-TBD
+Nuno Antunes, University of Coimbra
+Nuno Neves, University of Lisboa
 
-## Steering Committee
+# More Names to Follow
 
-TBD
-
-## Publicity Chair
-
-TBD
-
-## Web Chair
-
-TBD 
