@@ -8,7 +8,7 @@ Enterprise-class resiliency in the cloud (including the traditional areas of fau
 
 Resiliency, security, privacy, and performance on the cloud are active areas of research and development for some time now, and numerous schemes have been developed to address one or a subset of these needs. However, integrating these schemes to coherently achieve all properties simultaneously is a hard problem, involving many tricky trade-offs – which must be solved to meet these applications’ requirements.
 
-The objective of this one-day workshop is to explore methods for viably and coherently integrating the disparate disciplines of resiliency, security, privacy, and performance in the context of cloud environments. The topics of interest mirror those of general interest to the EDCC [a link](http://edcc2018.info.uaic.ro/index.html) main conference as applied to this problem domain, notably:
+The objective of this one-day workshop is to explore methods for viably and coherently integrating the disparate disciplines of resiliency, security, privacy, and performance in the context of cloud environments. The topics of interest mirror those of general interest to the [EDCC](http://edcc2018.info.uaic.ro/index.html) main conference as applied to this problem domain, notably:
 
 * Cloud economics
 * Interplay between safety, security, privacy, and performance
