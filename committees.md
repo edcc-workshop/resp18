@@ -17,5 +17,5 @@ Nuno Antunes, University of Coimbra
 
 Nuno Neves, University of Lisboa
 
-# More Names to Follow
+#### More Names to Follow
 
