@@ -2,6 +2,14 @@
 title: Call for Papers
 ---
 
+### Important Dates
+
+|Submission Deadline:|June 8, 2018|
+|--------------------|------------|
+|Notification date:  |July 6, 2018|
+|Camera-Ready due:   |July 13, 2018|
+|Workshop:           |Sep 10, 2018|
+
 The objective of this workshop is to explore methods for viably and coherently integrating the disparate disciplines of resiliency, security, privacy, and performance in the context of cloud environments. The topics of interest mirror those of general interest to the [EDCC](http://edcc2018.info.uaic.ro/index.html) main conference as applied to this problem domain, notably:
 
 * Cloud economics
@@ -35,10 +43,3 @@ Full papers will be published as a workshop appendix together with the main EDCC
 Paper submission will be done through Easychair.
 
 
-### Important Dates
-
-|Submission Deadline:|June 8, 2018|
-|--------------------|------------|
-|Notification date:  |July 6, 2018|
-|Camera-Ready due:   |July 13, 2018|
-|Workshop:           |Sep 10, 2018|
