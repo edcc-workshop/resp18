@@ -8,13 +8,20 @@ Enterprise-class resiliency in the cloud (including the traditional areas of fau
 
 Resiliency, security, privacy, and performance on the cloud are active areas of research and development for some time now, and numerous schemes have been developed to address one or a subset of these needs. However, integrating these schemes to coherently achieve all properties simultaneously is a hard problem, involving many tricky trade-offs – which must be solved to meet these applications’ requirements.
 
-The objective of this one-day workshop is to explore methods for viably and coherently integrating the disparate disciplines of resiliency, security, privacy, and performance in a cloud environment. The topics of interest mirror those of general interest to EDCC as applied to this problem domain, notably:
+The objective of this one-day workshop is to explore methods for viably and coherently integrating the disparate disciplines of resiliency, security, privacy, and performance in the context of cloud environments. The topics of interest mirror those of general interest to EDCC as applied to this problem domain, notably:
+•	Cloud economics
+•	Interplay between safety, security, privacy, and performance
+•	Privacy-preserving cloud data access
+•	Protocols for confidentiality-assured cloud data operations 
+•	Security and Compliance Management for cloud environments 
+•	Performance implications of cloud resiliency, security, and/or privacy features
+•	Dependability modelling and tools, especially methods for measurement, comparison, and validation of cloud resiliency, security, and/or performance
+•	Testing and validation methods for cloud security, performance, security, and/or privacy
+•	Performance of cloud systems and applications
+•	Cloud Availability and Reliability
+•	Security as a Service
+•	Data protection as a Service
+•	Disaster Recovery as a Service
+•	Design Patterns for cloud security, resiliency, availability, and/or privacy
+•	Cloud Management and Operations
 
-* Cloud computing
-* Interplay between safety (here articulated as resiliency), security, and performance
-* Privacy-preserving cloud data access
-* Protocols for confidentiality-assured cloud data operations
-* Security and Compliance Management for cloud environments
-* Performance impact and optimization of resiliency and security functionality
-* Dependability modelling and tools, especially methods for measurement, comparison, and validation of cloud resiliency/security/performance
-* Testing and validation methods
