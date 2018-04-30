@@ -17,5 +17,9 @@ Nuno Antunes, University of Coimbra
 
 Nuno Neves, University of Lisboa
 
+Marco Vieira, University of Coimbra
+
+Saman Zonouz, Rutgers University
+
 #### More Names to Follow
 
