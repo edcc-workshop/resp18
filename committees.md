@@ -13,15 +13,20 @@ Long Wang, IBM
 
 ## Program Committee
 
-Nuno Antunes, University of Coimbra
+Nuno Antunes, University of Coimbra, Portugal
 
-Bernardo Ferreira, NOVA LINCS / Universidade Nova de Lisboa
+Felicita Di Giandomenico, CNR, Italy
 
-Nuno Neves, University of Lisboa
+Bernardo Ferreira, NOVA LINCS / Universidade Nova de Lisboa, Portugal
 
-Marco Vieira, University of Coimbra
+Nuno Neves, University of Lisboa, Portugal
 
-Saman Zonouz, Rutgers University
+Robert Swarz, Worcester Polytechnic Institute (WPI), USA
+
+Marco Vieira, University of Coimbra, Portugal
+
+Saman Zonouz, Rutgers University, USA
+
 
 #### More Names to Follow
 
