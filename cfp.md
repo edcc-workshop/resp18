@@ -36,8 +36,6 @@ We invite papers in two different categories:
 Submitted papers must follow the IEEE conference format (2 columns, 10 pt, single-line spacing, A4 paper) and should be submitted in PDF format.
 LaTeX and MS Word templates may be found: [here](http://www.ieee.org/conferences_events/conferences/publishing/templates.html)
 
-### Publication
-Full papers will be published as a workshop appendix together with the main EDCC proceedings in IEEE Xplore.
 
 ### Paper Submission
 Paper submission will be done through Easychair.
