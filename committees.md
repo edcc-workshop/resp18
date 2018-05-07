@@ -15,9 +15,17 @@ Long Wang, IBM
 
 Nuno Antunes, University of Coimbra, Portugal
 
-Felicita Di Giandomenico, CNR, Italy
+João Paulo Cunha, INESC TEC, Portugal
+
+Felicita di Giandomenico, CNR, Italy
+
+Lelio (Catello) di Martino, Bell Labs, USA
 
 Bernardo Ferreira, NOVA LINCS / Universidade Nova de Lisboa, Portugal
+
+Francisco Maia, INESC TEC, Portugal
+
+Miguel Matos, INESC-ID, Portugal
 
 Nuno Neves, University of Lisboa, Portugal
 
