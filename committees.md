@@ -33,6 +33,8 @@ Robert Swarz, Worcester Polytechnic Institute (WPI), USA
 
 Marco Vieira, University of Coimbra, Portugal
 
+Katinka Wolter, Freie Universität Berlin, Germany
+
 Saman Zonouz, Rutgers University, USA
 
 
