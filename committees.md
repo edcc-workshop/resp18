@@ -15,7 +15,7 @@ Long Wang, IBM
 
 Nuno Antunes, University of Coimbra, Portugal
 
-João Paulo Cunha, INESC TEC, Portugal
+João Paulo, INESC TEC, Portugal
 
 Felicita di Giandomenico, CNR, Italy
 
