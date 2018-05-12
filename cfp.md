@@ -12,7 +12,7 @@ title: Call for Papers
 
 The objective of this workshop is to explore methods for viably and coherently integrating the disparate disciplines of resiliency, security, privacy, and performance in the context of cloud environments. The topics of interest mirror those of general interest to the [EDCC](http://edcc2018.info.uaic.ro/index.html) main conference as applied to this problem domain, notably:
 
-* Cloud economics
+* Cloud economics and relation to security, privacy, resiliency, or performance
 * Interplay between safety, security, privacy, and performance
 * Privacy-preserving cloud data access
 * Protocols for confidentiality-assured cloud data operations 
@@ -21,6 +21,7 @@ The objective of this workshop is to explore methods for viably and coherently i
 * Dependability modelling and tools, especially methods for measurement, comparison, and validation of cloud resiliency, security, and/or performance
 * Testing and validation methods for cloud security, performance, security, and/or privacy
 * Performance of cloud systems and applications
+* GDPR/HIPAA/PCI/GxP implications for cloud providers, cloud services, and cloud-hosted applications
 * Cloud Availability and Reliability
 * Security as a Service
 * Data protection as a Service
