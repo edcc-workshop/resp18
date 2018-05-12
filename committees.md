@@ -13,6 +13,8 @@ Long Wang, IBM
 
 ## Program Committee
 
+Eric Alata, INSA, France 
+
 Nuno Antunes, University of Coimbra, Portugal
 
 João Paulo, INESC TEC, Portugal
