@@ -42,5 +42,6 @@ Full papers will be published as a workshop appendix together with the main EDCC
 
 ### Paper Submission
 Paper submission will be done through Easychair.
+https://easychair.org/conferences/?conf=resp18
 
 
