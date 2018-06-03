@@ -4,7 +4,7 @@ title: Call for Papers
 
 ### Important Dates
 
-|Submission Deadline:|June 8, 2018|
+|Submission Deadline:|~~June 8, 2018~~ June 15, 2018 (Final Extended Deadline)|
 |--------------------|------------|
 |Notification date:  |July 6, 2018|
 |Camera-Ready due:   |July 13, 2018|

@@ -1,0 +1,76 @@
+
+
+---------------------------------
+
+Modelling and Measurement - 100 minutes
+
+Industry Track Keynote (Tentative) - 60 minutes
+
+
+IND-17 Autonomous Driving System : Model Based Safety Analysis 
+Mohamed TLIG, IRT SystemX, France
+Mathilde MACHIN, APSYS – AIRBUS, France
+Romain KERNEIS, IRT SystemX, France
+Emmanuel ARBARETIER, APSYS – AIRBUS, France
+Linda ZHAO, SECTOR-GROUP, France
+Florent MEURVILLE, VALEO, France
+Jean VAN FRANK, IRT SystemX, France
+
+IND-14 Measuring and Exploiting Guardbands of Server-Grade ARMv8 CPU Cores and DRAMs 
+Konstantinos Tovletoglou Lev Mukhanov Georgios Karakonstantis, Queen's University Belfast, UK
+Athanasios Chatzidimitriou, George Papadimitriou, Manolis Kaliorakis, Dimitris Gizopoulos, University of Athens, Greece
+Zacharias Hadjilambrou, Yiannakis Sazeides, University of Cyprus
+Alejandro Lampropulos, WorldSensing
+Shidhartha Das, ARM Ltd.
+Phong Vo, A.M.C.C. Deutschland, Germany
+
+-----------------------------
+
+
+
+Detection and Remediation - 100 minutes
+
+IND-07 Hardening the Core: Understanding and Detection of XNU Kernel Vulnerabilities 
+Xiangyu Liu, Min Zheng, Aimin Pan, and Quan Lu
+Alibaba Inc., China
+
+IND-08 Hardware Remediation At Scale 
+Fan (Fred) Lin, Matt Beadon, Harish Dattatraya Dixit, Gautham Vunnam, Amol Desai, Sriram Sankar 
+Facebook Inc., USA
+
+IND-25 Cross-Stack Threat Sensing for Cyber Security and Resilience 
+Frederico Araujo, Teryl Taylor, Jialong Zhang, Marc Ph. Stoecklin
+Thomas J. Watson Research Center, USA
+
+IND-13 Lifeguard: Local Health Awareness for More Accurate Failure Detection 
+Armon Dadgar, James Phillips, and Jon Currey
+Hashicorp, USA
+
+
+IND-22 Diagnosing Failures of Cloud Management Actions 
+Rohit Ranchal, IBM Watson Health, USA
+Praveen Jayachandran, IBM Research, India
+
+
+---------------------------------
+Cloud Computing and Internet of Things (IoT) - 75-80 Minutes
+
+IND-26 ConfEx: Towards Automating Software Configuration Analytics in the Cloud 
+Ozan Tuncer, Boston University, USA
+Nilton Bila, IBM Research, USA
+Sastry Duri, IBM Research, USA
+Canturk Isci, IBM Research, USA 
+Ayse K. Coskun, Boston University, USA
+
+IND-15: A Large-scale System for Real-time Diabetes Monitoring
+Long Vu, Venkata N. Pavuluri, Yuan-chi Chang, Deepak S. Turaga 
+IBM T. J. Watson Research Center, USA
+
+IND-18 Challenges of DB2 restore in a distributed systems environment and engineered solutions 
+Pratik Mukherjee and Valentina Salapura
+IBM Watson Health, USA
+
+IND-24 Dependability in a Multi-tenant Multi-framework Deep Learning as-a-Service Platform 
+Scott Boag, Parijat Dube, Kaoutar El Maghraoui, Benjamin Herta, Waldemar Hummer, K. R. Jayaram, Rania Khalaf, Vinod Muthusamy, Michael Kalantar, Archit Verma
+IBM T. J. Watson Research Center, USA
+
