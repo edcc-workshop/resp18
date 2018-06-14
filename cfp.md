@@ -38,7 +38,7 @@ Submitted papers must follow the IEEE conference format (2 columns, 10 pt, singl
 LaTeX and MS Word templates may be found: [here](http://www.ieee.org/conferences_events/conferences/publishing/templates.html)
 
 ### Publication
-Full papers will be published as a workshop appendix together with the main EDCC proceedings in IEEE Xplore.
+Proceedings of the workshop will be submitted to Xplore and CSDL.
 
 ### Paper Submission
 Paper submission will be done through Easychair.
