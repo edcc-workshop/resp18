@@ -42,5 +42,3 @@ Katinka Wolter, Freie Universität Berlin, Germany
 Saman Zonouz, Rutgers University, USA
 
 
-#### More Names to Follow
-
